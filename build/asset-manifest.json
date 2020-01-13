@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df19bab7.chunk.css",
+    "main.js": "/static/js/main.248cc8e0.chunk.js",
+    "main.js.map": "/static/js/main.248cc8e0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.dc5ff711.chunk.css": "/static/css/2.dc5ff711.chunk.css",
+    "static/js/2.4fd3fe65.chunk.js": "/static/js/2.4fd3fe65.chunk.js",
+    "static/js/2.4fd3fe65.chunk.js.map": "/static/js/2.4fd3fe65.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.21bc000b8f9687317945b3ad5858f964.js": "/precache-manifest.21bc000b8f9687317945b3ad5858f964.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.dc5ff711.chunk.css.map": "/static/css/2.dc5ff711.chunk.css.map",
+    "static/css/main.df19bab7.chunk.css.map": "/static/css/main.df19bab7.chunk.css.map",
+    "static/media/logo4.svg": "/static/media/logo4.ccd14581.svg",
+    "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot",
+    "static/media/now-ui-dashboard.scss?v1.2.0": "/static/media/nucleo-outline.8ebec31f.woff2"
+  }
+}
